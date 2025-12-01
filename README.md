@@ -4,6 +4,8 @@ X Online Browser is a cross-platform desktop web browser demo built with Electro
 
 X Online Browser 是一个基于 Electron、React 和 TypeScript 构建的跨平台桌面浏览器示例，集成多标签浏览、隐身标签页、收藏夹、下载管理等常见功能，用于演示如何在 Electron 中封装原生 WebView 并搭建现代浏览体验，可作为学习与二次开发的基础模板。
 
+因Electron毕竟不是满血浏览器, 我已开始研究Chromium源码去了
+
 ## 技术栈 / Tech Stack
 
 - **主框架 / Main Framework**: Electron, React, TypeScript
